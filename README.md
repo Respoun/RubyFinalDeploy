@@ -2,7 +2,7 @@
 
 Ruby On Rails Final CRUD
 
-Fonctionnalités:
+Usage: Gestion d'un listing de produits de types biéres, associé à leurs brasserie et style.
 
 Biéres:
   - Ajout d'une fiche d'information d'une biére
@@ -22,7 +22,9 @@ Biéres:
     - suppression d'une fiche d'information d'une Style
     - Consulation d'une fiche d'information d'une Style
 
-Authentification via credentials user/mots de passe.
+Authentification via credentials user email/mots de passe.
 
-Implémentaion d'une GEM de traduction du texte.
-voir: https://github.com/Respoun/RubyFinal/tree/main/gemdub
+Implémentaion d'une GEM de traduction du texte Francais/Anglais.
+voir forlder gemdub.
+
+![Screenshot](diagramme.png) 
