@@ -2,6 +2,8 @@
 
 Ruby On Rails Final CRUD
 
+URL: https://rubyinaleploy.herokuapp.com/
+
 Usage: Gestion d'un listing de produits de types biéres, associé à leurs brasserie et style.
 
 Biéres:
@@ -29,4 +31,4 @@ voir forlder gemdub.
 
 Diagramme base de données:
 
-![Screenshot](diagramme.png) 
+![Screenshot](diagramme.png)

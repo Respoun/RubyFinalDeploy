@@ -1,0 +1,14 @@
+DUBUCHE Maxence:
+- Refexion concept application
+- Implementation et développement de la GEM de traduction.
+- Reflexion schéma base de données
+- Mise en place du CRUD et des views
+- création de la seed
+
+FITAMANT Guillaume:
+- Refexion concept application
+- Reflexion schéma base de données
+- Mise en place du CRUD et des views
+- Déploiement via Heroku
+- Création de la seed
+- Rédaction documentation projet
