@@ -27,4 +27,6 @@ Authentification via credentials user email/mots de passe.
 Implémentaion d'une GEM de traduction du texte Francais/Anglais.
 voir forlder gemdub.
 
+Diagramme base de données:
+
 ![Screenshot](diagramme.png) 
