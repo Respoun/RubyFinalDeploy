@@ -1,5 +1,5 @@
 DUBUCHE Maxence:
-- Refexion concept application
+- Reflexion concept application
 - Implementation et développement de la GEM de traduction.
 - Reflexion schéma base de données
 - Mise en place du CRUD et des views
